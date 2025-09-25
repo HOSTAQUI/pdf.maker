@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/HOSTAQUI/pdf.maker/compare/v1.0.0...v1.1.0) (2025-09-25)
+
+
+### Features
+
+* add docs ([adce50e](https://github.com/HOSTAQUI/pdf.maker/commit/adce50ee5165733ded4a61cc9f4204f47cff1f6a))
+
 ## 1.0.0 (2025-09-24)
 
 
